@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Velusamyp
-- 👀 I’m interested in ...
+- 👀 I’m interested in ...Front end web developer
 - 🌱 I’m currently learning ...CSS, JAVASCRIPT
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...velusamy0939@gmail.com
